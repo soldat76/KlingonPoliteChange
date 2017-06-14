@@ -89,7 +89,7 @@ while True:
             print("\nThe polite way to give back Klingon change of **%i mu** is: \n\t%i lru (%i mu), \n\t%i talon (%i mu), \n\t%i darsek (%i mu), \n\t%i shhhrok (%i mu)."
               %(changeDisplay,changeLru,lru,changeTalon,talon,changeDarsek,darsek,changeShhhrok,shhhrok))
             
-            input("\nThank you for using this calcultor. To exit, press enter.")
+            input("\nThank you for using this calculator. To exit, press enter.")
             break
             
                 
