@@ -1,7 +1,7 @@
 # KlingonPoliteChange
 A school assignment where we had to create a script to properly hand out change after a purchase.
 
-Klingon Monetary System (Background)
+__Klingon Monetary System (Background)__
 
 As we can well imagine, Klingon monetary system is a little different from the monetary systems used on earth.
 
